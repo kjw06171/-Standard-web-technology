@@ -10842,6 +10842,11 @@ body {
   position: relative;
 }
 
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
 p {
   line-height: 1.75;
 }
